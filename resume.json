@@ -147,24 +147,17 @@
       "pages": [
         {
           "sidebar": [
-            "basics"
+            "basics",
+            "skills",
+            "languages",
+            "interests"
           ],
           "main": [
             "basics",
             "work",
             "volunteer",
             "education",
-            "awards"
-          ]
-        },
-
-        {
-          "sidebar": [
-            "skills",
-            "languages",
-            "interests"
-          ],
-          "main": [
+            "awards",
             "publications",
             "projects",
             "references"
