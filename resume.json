@@ -4,7 +4,7 @@
     "label": "Software developer",
     "email": "andreas.coroiu@gmail.com",
     "url": "http://andreascoroiu.com",
-    "summary": "Recently graduated software developer with lots of experience in fullstack development but searching for challenges in new areas such as IoT (e.g. smart home devices), Automation and FinTech. ",
+    "summary": "Recently graduated software engineer with lots of experience in full-stack development due to working through the majority of my studies. Passionate about software as my craftmanship - viewing clean code and architecture as an art. I humbly accept that I can never know everything, but still choose to have it as my dream. I love to ask questions, learn, teach, and when needed - speak up. My personal projects often include embedded programming and automation, but curiosity has taken me to other places as well - feel free to check out my github page. I am currently searching for challenges in new areas such as IoT (e.g. smart home devices), Automation and modern FinTech.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -14,7 +14,7 @@
       {
         "network": "Personal",
         "username": "andreascoroiu.com",
-        "url": "http://twitter.com/john"
+        "url": "https://andreascoroiu.com"
       },
       {
         "network": "Github",
@@ -30,7 +30,11 @@
       "url": "https://combitech.se/",
       "startDate": "2017-07",
       "endDate": "Now",
-      "summary": "Full-stack web development using ASP.NET Framework, ASP.NET Core and latest Angular versions."
+      "summary": "Ongoing 2-year project working with an agile team, doing architectural design and implementation. Significantly boosted my knowledge by working together closely with the senior architect assigned to the project.",
+      "highlights": [
+          "Full-stack development using ASP.NET Framework, ASP.NET Core and Angular.",
+          "Domain discovery and architectural design together with the senior architect."
+      ]
     },
     {
       "company": "Combain Mobile",
@@ -50,21 +54,28 @@
       "url": "https://combain.com/",
       "startDate": "2016-06",
       "endDate": "2016-12",
-      "summary": "In-house full-stack web development using technologies such as Ruby on Rails, Node.js, AngularJS and more."
+      "summary": "In-house full-stack development using technologies such as Ruby on Rails, Node.js, PHP, AngularJS, with deployement in AWS."
     },
     {
       "company": "Lunicore",
-      "position": "Master's Thesis",
+      "position": "Software developer",
       "url": "https://combain.com/",
-      "startDate": "2017-01",
-      "endDate": "2017-06",
+      "startDate": "2014-11",
+      "endDate": "2016-08",
       "summary": "Various consultant projects during studies.",
       "highlights": [
         "Web development in Ruby on Rails.",
         "MySQL database modelling.",
-        "Wordpress theme and plugin development.",
         "AngularJS."
       ]
+    },
+    {
+      "company": "WeKnowIT",
+      "position": "Support Technician",
+      "url": "https://weknowit.se/",
+      "startDate": "2014-01",
+      "endDate": "2014-11",
+      "summary": "Wordpress theme and plugin development, together with IT support for private customers."
     }
   ],
   "education": [
@@ -74,23 +85,16 @@
       "studyType": "Master of Science",
       "startDate": "2011-06",
       "endDate": "2017-07"
-    },
-    {
-      "institution": "Manabi 外語学院",
-      "area": "Japanese Language Studies",
-      "studyType": "Language School",
-      "startDate": "2012-06",
-      "endDate": "2013-06"
     }
   ],
   "skills": [
     {
       "name": "Programming Languages",
       "keywords": [
-        "C#",
+        "C# (.NET)",
         "C++",
-        "C",
         "Javascript",
+        "C",
         "Java",
         "VB",
         "HTML",
@@ -106,20 +110,22 @@
     {
       "name": "Technologies",
       "keywords": [
-        "Arduino",
-        "Raspberry Pi",
+        "Docker",
         "Particle.io",
-        "Aws",
-        "Docker"
+        "Raspberry Pi",
+        "Arduino",
+        "ROS",
+        "AWS",
+        "Kubernetes"
       ]
     },
     {
       "name": "Paradigms",
       "keywords": [
         "Object-Oriented",
+        "Reactive",
         "Functional",
         "Constraint",
-        "Reactive",
         "Procedural"
       ]
     }
@@ -131,11 +137,11 @@
     },
     {
       "language": "English",
-      "fluency": "Full"
+      "fluency": "Professional"
     },
     {
       "language": "Romanian",
-      "fluency": "Full"
+      "fluency": "Second language"
     },
     {
       "language": "Japanese",
@@ -154,9 +160,9 @@
           ],
           "main": [
             "basics",
+            "education",
             "work",
             "volunteer",
-            "education",
             "awards",
             "publications",
             "projects",
