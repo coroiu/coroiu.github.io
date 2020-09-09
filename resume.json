@@ -4,7 +4,7 @@
     "label": "Software developer",
     "email": "andreas.coroiu@gmail.com",
     "url": "http://andreascoroiu.com",
-    "summary": "Recently graduated software engineer with lots of experience in full-stack development due to working through the majority of my studies. Passionate about software as my craftmanship - viewing clean code and architecture as an art. I humbly accept that I can never know everything, but still choose to have it as my dream. I love to ask questions, learn, teach, and when needed - speak up. My personal projects often include embedded programming and automation, but curiosity has taken me to other places as well - feel free to check out my github page. I am currently searching for challenges in new areas such as IoT (e.g. smart home devices), Automation and modern FinTech.",
+    "summary": "An engineer at heart who is passionate about software as my craftsmanship - viewing clean code and architecture as an art. I humbly accept that I can never know everything, but still choose to have it as my dream. I love to ask questions, learn, teach, and when needed - speak up. My personal projects often include embedded programming and automation, but curiosity has taken me to other places as well.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -25,20 +25,29 @@
   },
   "work": [
     {
+      "company": "Tretton37",
+      "position": "Senior software developer",
+      "url": "https://tretton37.com/",
+      "startDate": "2020-04",
+      "endDate": "Now",
+      "summary": "Microservce based software in GCP using Python."
+    },
+    {
       "company": "Combitech",
-      "position": "Software Developer",
+      "position": "Software developer",
       "url": "https://combitech.se/",
       "startDate": "2017-07",
-      "endDate": "Now",
+      "endDate": "2020-04",
       "summary": "Ongoing 2-year project working with an agile team, doing architectural design and implementation. Significantly boosted my knowledge by working together closely with the senior architect assigned to the project.",
       "highlights": [
+          "Tech Lead role.",
           "Full-stack development using ASP.NET Framework, ASP.NET Core and Angular.",
           "Domain discovery and architectural design together with the senior architect."
       ]
     },
     {
       "company": "Combain Mobile",
-      "position": "Master's Thesis",
+      "position": "Master's thesis",
       "url": "https://combain.com/",
       "startDate": "2017-01",
       "endDate": "2017-06",
@@ -50,7 +59,7 @@
     },
     {
       "company": "Combain Mobile",
-      "position": "Software Developer",
+      "position": "Software developer",
       "url": "https://combain.com/",
       "startDate": "2016-06",
       "endDate": "2016-12",
@@ -58,7 +67,7 @@
     },
     {
       "company": "Lunicore",
-      "position": "Software Developer",
+      "position": "Software developer",
       "url": "https://combain.com/",
       "startDate": "2014-11",
       "endDate": "2016-08",
@@ -71,7 +80,7 @@
     },
     {
       "company": "WeKnowIT",
-      "position": "Support Technician",
+      "position": "Support technician",
       "url": "https://weknowit.se/",
       "startDate": "2014-01",
       "endDate": "2014-11",
