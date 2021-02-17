@@ -4,7 +4,7 @@
     "label": "Software developer",
     "email": "andreas.coroiu@gmail.com",
     "url": "http://andreascoroiu.com",
-    "summary": "An engineer at heart who is passionate about software as my craftsmanship - viewing clean code and architecture as an art. I humbly accept that I can never know everything, but still choose to have it as my dream. I love to ask questions, learn, teach, and when needed - speak up. My personal projects often include embedded programming and automation, but curiosity has taken me to other places as well.",
+    "summary": "An engineer at heart who is passionate about software as my craftsmanship - viewing clean code and architecture as an art. I humbly accept that I can never know everything, but still choose to have it as my dream. I love to ask questions, learn, teach, and when needed - speak up. My personal projects often include embedded programming and automation, but curiosity has taken me to other places as well. My main goal and strength is the ability to understand the underlying nature of any problem. Distribution of this type of knowledge and the subsequent creation of a common understanding that it generates is, in my opinion, one of the main keys to success.",
     "profiles": [
       {
         "network": "LinkedIn",
@@ -30,7 +30,8 @@
       "url": "https://tretton37.com/",
       "startDate": "2020-04",
       "endDate": "Now",
-      "summary": "Microservce based software in GCP using Python."
+      "summary": "Worked together with Prisjakt to setup a new department aimed at B2B by coordinating with already existing departments to quickly release to market. All while following the lean startup methodology.",
+      "highlights": ["Microservice based software development in GCP using Python and TypeScript."]
     },
     {
       "company": "Combitech",
@@ -38,7 +39,7 @@
       "url": "https://combitech.se/",
       "startDate": "2017-07",
       "endDate": "2020-04",
-      "summary": "Ongoing 2-year project working with an agile team, doing architectural design and implementation. Significantly boosted my knowledge by working together closely with the senior architect assigned to the project.",
+      "summary": "Remote project working for Volvo, doing architectural design and implementation.",
       "highlights": [
           "Tech Lead role.",
           "Full-stack development using ASP.NET Framework, ASP.NET Core and Angular.",
@@ -77,14 +78,6 @@
         "MySQL database modelling.",
         "AngularJS."
       ]
-    },
-    {
-      "company": "WeKnowIT",
-      "position": "Support technician",
-      "url": "https://weknowit.se/",
-      "startDate": "2014-01",
-      "endDate": "2014-11",
-      "summary": "Wordpress theme and plugin development, together with IT support for private customers."
     }
   ],
   "education": [
@@ -125,6 +118,7 @@
         "Arduino",
         "ROS",
         "AWS",
+        "GCP",
         "Kubernetes"
       ]
     },
