@@ -30,8 +30,14 @@
       "url": "https://tretton37.com/",
       "startDate": "2020-04",
       "endDate": "Now",
-      "summary": "Worked together with Prisjakt to setup a new department aimed at B2B by coordinating with already existing departments to quickly release to market. All while following the lean startup methodology.",
-      "highlights": ["Microservice based software development in GCP using Python and TypeScript."]
+      "summary": "Working as part of a task-force-like initiative for solving important cross-domain challenges. Started out by setting up a new department aimed at B2B by coordinating with already existing departments to quickly release to market. All while following the lean startup methodology.",
+      "highlights": [
+        "Driving initiative looking at team topologies for owning a core platform service.",
+        "Driving initiative for future proofing Edge API tech-stack in new organzational structure.",
+        "Deployed to Cloud Functions, Cloud Run, and Kubernetes.",
+        "Microservice based software development in GCP.",
+        "Started with Python and moved to TypeScript as primary language."
+      ]
     },
     {
       "company": "Combitech",
@@ -72,12 +78,7 @@
       "url": "https://combain.com/",
       "startDate": "2014-11",
       "endDate": "2016-08",
-      "summary": "Various consultant projects during studies.",
-      "highlights": [
-        "Web development in Ruby on Rails.",
-        "MySQL database modelling.",
-        "AngularJS."
-      ]
+      "summary": "Consultant assignments during studies working with Ruby on Rails, MySQL and AngularJS."
     }
   ],
   "education": [
@@ -163,13 +164,18 @@
           ],
           "main": [
             "basics",
-            "education",
             "work",
             "volunteer",
             "awards",
             "publications",
             "projects",
             "references"
+          ]
+        },
+        {
+          "sidebar": [],
+          "main": [
+            "education"
           ]
         }
       ]
